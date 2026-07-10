@@ -4,7 +4,7 @@ Maintenance scripts for Debian-based systems (uses `apt`).
 
 ## Scripts
 
-### `01-update-packages.example.sh`
+### `update-packages.example.sh`
 
 Updates system packages and cleans up old caches.
 
@@ -18,5 +18,5 @@ Updates system packages and cleans up old caches.
 **Usage:**
 
 ```bash
-./01-update-packages.example.sh
+./update-packages.example.sh
 ```
